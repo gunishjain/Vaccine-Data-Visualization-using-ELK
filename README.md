@@ -36,5 +36,7 @@ Nginx Configuration with Kibana: https://github.com/gunishjain/Vaccine-Data-Visu
 # External References/Resources
 
 https://burnhamforensics.com/2019/02/06/how-to-install-and-configure-nginx-for-kibana/
+
 https://cloudaffaire.com/how-to-create-a-pipeline-in-logstash/
+
 https://coralogix.com/blog/logstash-csv-import-parse-your-data-hands-on-examples/
