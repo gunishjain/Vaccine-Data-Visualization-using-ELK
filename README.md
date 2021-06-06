@@ -28,6 +28,7 @@ The Dataset was taken from Kaggle: https://www.kaggle.com/harveenchadha/india-co
 11. Different tools were then used to Visualize the Data.
 
 PipeLine File : https://github.com/gunishjain/Vaccine-Data-Visualization-using-ELK/blob/master/vaccine-registration.conf
+
 Nginx Configuration with Kibana: https://github.com/gunishjain/Vaccine-Data-Visualization-using-ELK/blob/master/Nginx%20Kibana%20Config.txt
 
 **Images and Configuration files are stored in the repo**
